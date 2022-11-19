@@ -22,6 +22,6 @@ Olá eu sou a Ellen Vieira 👋
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/ellen-vieira-da-silva-4b939321b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
-   ![Snake Animation](https://github.com/EllenVieira1/EllenVieira1/blob/output/github-contribution-grid-snake.svg)
+ ![Snake Animation](https://github.com/EllenVieira1/EllenVieira1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
