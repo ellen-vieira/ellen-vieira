@@ -12,6 +12,7 @@ Olá eu sou a Ellen Vieira 👋
   <img align="center" alt="Ellen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ellen-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Ellen-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="right" alt="Ellen-Pic" height="200" width="200" src="https://cdn.discordapp.com/attachments/1001485508125401162/1043511688042926121/Ellen-pic.png">
  </div>
  
  ##
@@ -19,7 +20,9 @@ Olá eu sou a Ellen Vieira 👋
  <div> 
   <a href="https://https://www.instagram.com/ellen_vieirasilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/ellen-vieira-da-silva-4b939321b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/ellen-vieira-da-silva-4b939321b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
+   ![Snake Animation](https://github.com/EllenVieira1)
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
