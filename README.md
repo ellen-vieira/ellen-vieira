@@ -1,9 +1,11 @@
 Olá, eu sou a Ellen!💫
 
 #
-![](https://github-readme-stats.vercel.app/api?username=EllenVieira1&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EllenVieira1&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EllenVieira1&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EllenVieira1&theme=radical&hide_border=true&include_all_commits=true&count_private=false"/>
+<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EllenVieira1&theme=radical&hide_border=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenVieira1&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/Yrem2yjX)
