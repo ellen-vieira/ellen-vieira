@@ -2,8 +2,8 @@ Olá, eu sou a Ellen!💫
 
 #
 <div align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EllenVieira1&theme=radical&hide_border=true&include_all_commits=true&count_private=false"/>
-<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EllenVieira1&theme=radical&hide_border=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ellen-vieira&theme=radical&hide_border=true&include_all_commits=true&count_private=false"/>
+<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ellen-vieira&theme=radical&hide_border=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllenVieira1&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
@@ -25,5 +25,5 @@ Olá, eu sou a Ellen!💫
   </div>
   
 ---
-![Snake animation](https://github.com/EllenVieira1/EllenVieira1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ellen-vieira/ellen-vieira/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
