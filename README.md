@@ -1,29 +1,28 @@
-Olá, eu sou a Ellen!💫
+<h3 align="center">
+        <samp>&gt; 🤓 Hello, I am
+                <b><a target="_blank">Ellen Vieira!</a></b>
+        </samp>
+</h3>
 
-#
-<div align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ellen-vieira&theme=radical&hide_border=true&include_all_commits=true&count_private=false"/>
-<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ellen-vieira&theme=radical&hide_border=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen-vieira&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
 </div>
 
-# 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/Yrem2yjX)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ellen.vieira0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-vieira-da-silva-4b939321b/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vieiraellen755) 
+<!-- About me -->
+<h2 align="left">👩🏽‍💻 About me</h2>
 
-#
-  <div style="display: inline_block"><br>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </div>
-  
----
-![Snake animation](https://github.com/ellen-vieira/ellen-vieira/blob/output/github-contribution-grid-snake.svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>I am a student of Systems Analysis and Development and I am always looking for ways to expand my knowledge and learn something new.</p>
+
+<p>- 🔍 I am learning full stack development, working with front-end and back-end technologies to build complete web applications.</p>
+
+<!-- Languages and Tools -->
+<h2 align="left">🛠️ Languages and Tools</h2>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode,wordpress"/>
+</a>
+
+<!-- Medias -->
+<h2>📫 Where to find me?</h2>
+<a href="https://www.linkedin.com/in/ellen-vieira-da-silva-4b939321b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
